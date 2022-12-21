@@ -1,5 +1,5 @@
 # Query-a-Digital-Music-Store-Database
-*Music SQL Database*
+
 Project 1 of the Udacity Advanced Data Analysis Nanodegree
 
 # Project Description
